@@ -1,0 +1,9 @@
+Nimble Tech offers practical technology learning tracks for beginners and early-career learners. The sample tracks are Python and software foundations, web development, data analytics, and interview preparation.
+
+Python and software foundations covers programming basics, problem solving, functions, data structures, Git, and small projects. It is suitable for learners with little or no programming experience.
+
+Web development covers HTML, CSS, JavaScript, responsive interfaces, APIs, and a portfolio project. Learners should be comfortable using a computer and be ready to practice regularly.
+
+Data analytics covers spreadsheets, SQL, Python data handling, visualization, and introductory statistics. Basic mathematics and comfort with tabular data are helpful.
+
+Interview preparation covers resume projects, coding practice, technical interview fundamentals, communication, and mock interviews. It works best after the learner has a project or foundational course experience.

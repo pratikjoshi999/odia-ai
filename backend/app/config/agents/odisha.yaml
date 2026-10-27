@@ -1,0 +1,34 @@
+id: odisha
+name: Odisha AI
+tagline: ଓଡ଼ିଶା ବିଷୟରେ ପଚାରନ୍ତୁ
+prompt_file: backend/app/config/prompts/odisha.txt
+domain_terms:
+  - odisha
+  - ଓଡ଼ିଶା
+  - ଓଡିଶା
+  - puri
+  - ପୁରୀ
+  - bhubaneswar
+  - ଭୁବନେଶ୍ୱର
+  - cuttack
+  - କଟକ
+  - konark
+  - କୋଣାର୍କ
+  - jagannath
+  - ଜଗନ୍ନାଥ
+  - odia
+  - ଓଡ଼ିଆ
+  - kalinga
+  - କଳିଙ୍ଗ
+  - chilika
+  - ଚିଲିକା
+  - similipal
+  - ସିମିଳିପାଳ
+  - developer
+  - ଡେଭେଲପର୍
+  - develop
+  - ଡେଭେଲପ
+off_topic_reply: ମୁଁ ବର୍ତ୍ତମାନ ଓଡ଼ିଶା ସମ୍ବନ୍ଧୀୟ ସୂଚନା ଦେବା ପାଇଁ ତିଆରି ହୋଇଛି। ଦୟାକରି ଓଡ଼ିଶା ବିଷୟରେ ପଚାରନ୍ତୁ।
+off_topic_reply_en: I currently focus on Odisha-related information. Please ask me about Odisha.
+rag_data_dir: data/odisha
+rag_relevance_threshold: 0.25

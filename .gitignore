@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+!.env.*.example
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/
+frontend_bkp/
+frontend_bkp_v1/
+.node/
+*.tsbuildinfo
+*.log
+.DS_Store

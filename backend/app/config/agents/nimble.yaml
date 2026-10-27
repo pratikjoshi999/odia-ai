@@ -1,0 +1,21 @@
+id: nimble
+name: Nimble AI
+tagline: Find the right technology course for your goals
+prompt_file: backend/app/config/prompts/nimble.txt
+domain_terms:
+  - nimble
+  - nimble tech
+  - course
+  - courses
+  - python
+  - web development
+  - data analytics
+  - interview
+  - career
+  - student
+  - learning
+  - programming
+off_topic_reply: ମୁଁ Nimble Tech ର କୋର୍ସ ଏବଂ କ୍ୟାରିଅର୍ କାଉନସେଲିଂ ପାଇଁ ତିଆରି ହୋଇଛି। ଦୟାକରି ଆପଣଙ୍କ ଶିକ୍ଷା, ଲକ୍ଷ୍ୟ କିମ୍ବା କୋର୍ସ ବିଷୟରେ ପଚାରନ୍ତୁ।
+off_topic_reply_en: I am the Nimble Tech course and career counselling assistant. Please ask about your learning goals, background, or technology courses.
+rag_data_dir: data/nimble
+rag_relevance_threshold: 0.25
